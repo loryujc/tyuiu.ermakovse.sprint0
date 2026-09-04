@@ -1,8 +1,13 @@
 <Solution>
   <Folder Name="/task0/">
-    <Project Path="tyuiu.ermakovse.sprint0.task0.v0/tyuiu.ermakovse.sprint0.task0.v0.csproj" />
+    <Project Path="tyuiu.ermakovse.sprint0.task0.v0/tyuiu.ermakovse.sprint0.task0.v0.csproj" DisplayName="Tyuiu.ErmakovSE.Sprint0.Task0.V0" Id="e1c8e8a9-cdd7-48ad-840b-455088908fac" />
   </Folder>
   <Folder Name="/task1/">
-    <Project Path="tyuiu.ermakovse.sprint0.task1.v0/tyuiu.ermakovse.sprint0.task1.v0.csproj" />
+    <Project Path="tyuiu.ermakovse.sprint0.task1.v0/tyuiu.ermakovse.sprint0.task1.v0.csproj" DisplayName="Tyuiu.ErmakovSE.Sprint0.Task1.V0" Id="fc49ee93-9530-4f86-80e5-5c0c25a3bf34" />
+  </Folder>
+  <Folder Name="/task2/">
+    <Project Path="Tyuiu.ErmakovSE.Sprint0.Task2.V0.Lib/Tyuiu.ErmakovSE.Sprint0.Task2.V0.Lib.csproj" Id="694bec59-54c5-4ddd-8650-e6f73409b7fe" />
+    <Project Path="Tyuiu.ErmakovSE.Sprint0.Task2.V0.Test/Tyuiu.ErmakovSE.Sprint0.Task2.V0.Test.csproj" Id="21e40035-36ea-43d3-999c-e4e1461555bd" />
+    <Project Path="Tyuiu.ErmakovSE.Sprint0.Task2.V0/Tyuiu.ErmakovSE.Sprint0.Task2.V0.csproj" Id="2c8cee5d-6723-44ae-8191-9aef3ff9e315" />
   </Folder>
 </Solution>
