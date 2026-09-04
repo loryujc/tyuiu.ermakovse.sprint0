@@ -10,7 +10,7 @@ namespace Tyuiu.ErmakovSE.Sprint0.Task2.V0.Lib
     {
         public static string GetMessage(string name)
         {
-            return $"Привет, {name}";
+            return $"Привет///, {name}";
         }
         
 
